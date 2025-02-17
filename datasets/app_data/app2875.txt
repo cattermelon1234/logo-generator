@@ -1,0 +1,1 @@
+FBReader PDF plugin
