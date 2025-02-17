@@ -21,3 +21,5 @@ Downloading the images and training took around 20 hours total on my macbook.
 ## Application
 Takes around 2 minutes for each image to generate, (cut out in the demo for time reasons). Frontend was done in react and backend was done through flask. To run the
 application, run npm install and npm run to start the frontend, and python3 app.py to start the backend. 
+
+You can see the working demo of the app, there is a file in the github repo. The full training repo can also be found under my profile if you want to see the code. 
