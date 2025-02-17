@@ -1,1 +1,0 @@
-SwiftScan: Scan PDF Documents
